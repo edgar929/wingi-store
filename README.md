@@ -13,6 +13,14 @@ In the project directory, you can run:
 
 ### `npm start`
 
+## To login one can use the following credentials
+username: johnd
+pass: m38rmF$
+
+second user
+username: mor_2314
+pass: 83r5^_
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
